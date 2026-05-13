@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/277fb098-935f-4600-9c00-64ebd7781db
+
+
+
 # Smart Machine Health Monitoring and Failure Prediction System
 
 ## Overview
